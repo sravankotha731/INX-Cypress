@@ -1,0 +1,36 @@
+{
+  "name": "inxchange-qa-automation",
+  "version": "1.0.0",
+  "description": "INXchange QA Automation repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Informa-Markets/inxchange-qa-automation.git"
+  },
+  "author": "Informa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Informa-Markets/inxchange-qa-automation/issues"
+  },
+  "homepage": "https://github.com/Informa-Markets/inxchange-qa-automation#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0",
+    "typescript": "^5.5.3",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.0",
+    "@cypress/browserify-preprocessor": "^3.0.2"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinations": false,
+    "stepDefinitions": [
+      "cypress/e2e/step_definations/**/*.ts"
+    ],
+    "filterSpecs": true,
+    "omitFiltered": true
+  }
+}
