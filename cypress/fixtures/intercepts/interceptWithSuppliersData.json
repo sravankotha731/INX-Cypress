@@ -1,0 +1,52 @@
+[
+    {
+        "Id": "66aa3ce9e854d6813c893417",
+        "Name": "Quik Pulse Pvt Ltd",
+        "Status": "Active"
+    },
+    {
+        "Id": "66ab3418ce854d6813c8939e8",
+        "Name": "Elysian Sky Pvt Ltd",
+        "Status": "Active"
+    },
+    {
+        "Id": "66ab67816dc58ce1ac0a174c",
+        "Name": "Nova Shore Pvt Ltd",
+        "Status": "Invited"
+    },
+    {
+        "Id": "66ab4822e854d6813c893a9a",
+        "Name": "Swift Pulse Pvt Ltd",
+        "Status": "Invited"
+    },
+    {
+        "Id": "66ab7f6460d41e9d33d4afb7",
+        "Name": "Zenith Kaila Labs",
+        "Status": "Invited"
+    },
+    {
+        "Id": "66aa3ce9e854d6813c893445",
+        "Name": "Lunex Loom Uk Pvt ltd",
+        "Status": "Active"
+    },
+    {
+        "Id": "66ab318ce854d6813c8939e8",
+        "Name": "Zephyr Bloom House Pvt Ltd",
+        "Status": "Invited"
+    },
+    {
+        "Id": "66ab37516dc58ce1ac0a174c",
+        "Name": "Orbit Hive Pvt",
+        "Status": "Active"
+    },
+    {
+        "Id": "66ab4822e85478813c893a9a",
+        "Name": "Horizon Harbor Shoes Ltd",
+        "Status": "Invited"
+    },
+    {
+        "Id": "66ab7f6460d41e9d346d4gfb7",
+        "Name": "Finch Flare Labs",
+        "Status": "Active"
+    }
+]

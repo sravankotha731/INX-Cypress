@@ -1,0 +1,16 @@
+{
+    "message": "Success",
+    "data": [
+        {
+            "Name": "Choco Powder",
+            "Description": "This project requires unique products from suppliers",
+            "CompanyId": "66c2d24063edd505ea0d20b0",
+            "AssociatedProducts": [],
+            "updatedAt": "2024-08-22T10:15:39.569Z",
+            "__v": 0,
+            "Id": "66c70fcb668d770b2cc749c9",
+            "CreationTimestamp": "2024-08-22T10:15:39.569Z",
+            "LastModificationTimestamp": "2024-08-22T10:15:39.569Z"
+        }
+    ]
+}
